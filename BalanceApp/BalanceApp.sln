@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalanceApp", "BalanceApp\BalanceApp.csproj", "{5D9551F0-CF1B-4A1B-8EFE-B6C12386755A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D9551F0-CF1B-4A1B-8EFE-B6C12386755A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D9551F0-CF1B-4A1B-8EFE-B6C12386755A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D9551F0-CF1B-4A1B-8EFE-B6C12386755A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D9551F0-CF1B-4A1B-8EFE-B6C12386755A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B161421-2CFD-468A-82D2-9BEBCB390744}
+	EndGlobalSection
+EndGlobal
