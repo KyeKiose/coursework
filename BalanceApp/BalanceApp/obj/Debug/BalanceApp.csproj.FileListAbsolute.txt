@@ -1,0 +1,12 @@
+D:\4 семестр\курсач\BalanceApp\BalanceApp\obj\Debug\BalanceApp.csprojAssemblyReference.cache
+D:\4 семестр\курсач\BalanceApp\BalanceApp\obj\Debug\BalanceApp.Game.resources
+D:\4 семестр\курсач\BalanceApp\BalanceApp\obj\Debug\BalanceApp.Properties.Resources.resources
+D:\4 семестр\курсач\BalanceApp\BalanceApp\obj\Debug\BalanceApp.csproj.GenerateResource.cache
+D:\4 семестр\курсач\BalanceApp\BalanceApp\obj\Debug\BalanceApp.csproj.CoreCompileInputs.cache
+D:\4 семестр\курсач\BalanceApp\BalanceApp\bin\Debug\BalanceApp.exe.config
+D:\4 семестр\курсач\BalanceApp\BalanceApp\bin\Debug\BalanceApp.exe
+D:\4 семестр\курсач\BalanceApp\BalanceApp\bin\Debug\BalanceApp.pdb
+D:\4 семестр\курсач\BalanceApp\BalanceApp\obj\Debug\BalanceApp.exe
+D:\4 семестр\курсач\BalanceApp\BalanceApp\obj\Debug\BalanceApp.pdb
+D:\4 семестр\курсач\BalanceApp\BalanceApp\obj\Debug\BalanceApp.AskForm.resources
+D:\4 семестр\курсач\BalanceApp\BalanceApp\obj\Debug\BalanceApp.csproj.ResolveComReference.cache
